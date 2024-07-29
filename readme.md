@@ -1,3 +1,10 @@
+# Directly Download ZIP file -
+
+Click here -> [⬇️](https://github.com/PATILYASHH/Youtube-Video-Pause-Extension/archive/refs/heads/master.zip)
+
+----
+
+
 # Color Picker Extension
 
 A simple and user-friendly color picker extension for web browsers. Easily pick colors from a color palette and copy the color code to your clipboard.
