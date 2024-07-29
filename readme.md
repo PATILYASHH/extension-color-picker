@@ -1,6 +1,6 @@
 # Directly Download ZIP file -
 
-Click here -> [⬇️](https://github.com/PATILYASHH/Youtube-Video-Pause-Extension/archive/refs/heads/master.zip)
+Click here -> [⬇️]([https://github.com/PATILYASHH/Youtube-Video-Pause-Extension/archive/refs/heads/master.zip](https://github.com/PATILYASHH/extension-color-picker/archive/refs/heads/master.zip))
 
 ----
 
